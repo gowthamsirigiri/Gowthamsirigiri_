@@ -11,7 +11,7 @@
 
 
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gowthamsirigiri&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gowtham Sirigiri&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamsirigiri&layout=compact&theme=tokyonight)
 
 
